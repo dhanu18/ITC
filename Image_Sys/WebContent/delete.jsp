@@ -11,6 +11,6 @@
 ${delfile} *********** deleted successfully<br><br>
 
 <center><img src="C:\Users\user\Desktop\Image_Sys\bb.jpg"><br><br><br><a href="home.jsp">Home</a></center>
-</body><br><br><br><br><br><br><br><br><br>
+</body><br><br><br><br><br>
 </html>
 
