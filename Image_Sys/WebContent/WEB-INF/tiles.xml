@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 2.0//EN"
+       "http://tiles.apache.org/dtds/tiles-config_2_0.dtd">
+<tiles-definitions>
+	<definition name="itc"
+		template="/layout.jsp">
+		
+		<put-attribute name="header" value="/header.jsp" />
+		<put-attribute name="menu" value="/menu.jsp" />
+		<put-attribute name="body" value="" />
+		<put-attribute name="footer" value="/footer.jsp" />
+	</definition>
+	
+	
+	<definition name="home" extends="itc">
+		
+		<put-attribute name="body" value="/home.jsp" />
+	</definition>
+	
+	<definition name="contact" extends="itc">
+		
+		<put-attribute name="body" value="/contact.jsp" />
+	</definition>
+	
+	<definition name="about" extends="itc">
+		
+		<put-attribute name="body" value="/about.jsp" />
+	</definition>
+	
+	<definition name="searchAll" extends="itc">
+		
+		<put-attribute name="body" value="/searchAll.jsp" />
+	</definition>
+
+	<definition name="success" extends="itc">
+		
+		<put-attribute name="body" value="/success.jsp" />
+	</definition>
+	
+	<definition name="duplie" extends="itc">
+		
+		<put-attribute name="body" value="/duplie.jsp" />
+	</definition>
+	
+	<definition name="duplie" extends="itc">
+		
+		<put-attribute name="body" value="/duplie.jsp" />
+	</definition>
+	
+	
+	<definition name="twoDupli" extends="itc">
+		
+		<put-attribute name="body" value="/twoDupli.jsp" />
+	</definition>
+	
+	
+	<definition name="doubleDupli" extends="itc">
+		
+		<put-attribute name="body" value="/doubleDupli.jsp" />
+	</definition>
+	
+	
+	<definition name="fail" extends="itc">
+		
+		<put-attribute name="body" value="/fail.jsp" />
+	</definition>
+	
+	
+	<definition name="delete" extends="itc">
+		
+		<put-attribute name="body" value="/delete.jsp" />
+	</definition>
+	
+	
+</tiles-definitions>
