@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/dev/apache-tomcat-8.0.30/lib/org.apache.commons.io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/dev/apache-tomcat-8.0.30/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/user/work/processing-core.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
