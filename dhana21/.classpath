@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_65">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/hib s4/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/hib s4/antlr-runtime.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/hib s4/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/hib s4/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/hib s4/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/hib s4/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/hib s4/commons-logging-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/hib s4/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/hib s4/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/hib s4/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/hib s4/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/hib s4/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/hib s4/hibernate-validator-4.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/hib s4/hsqldb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/hib s4/javassist-3.11.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/hib s4/jsch-0.1.49.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/hib s4/jstl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/hib s4/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/hib s4/jta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/hib s4/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/hib s4/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/hib s4/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/hib s4/slf4j-log4j12-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/hib s4/slf4j-simple-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/hib s4/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/hib s4/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/1/spring-aop-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/1/spring-asm-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/1/spring-beans-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/1/spring-context-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/1/spring-core-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/1/spring-expression-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/1/spring-jdbc-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/1/spring-orm-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/1/spring-tx-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/1/spring-web-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/dhana/spring/lib/1/spring-webmvc-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
