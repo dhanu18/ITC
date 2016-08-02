@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 25 Feb, 2016 2:25:51 PM by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+    <class name="com.se.temp.Temperature" table="TEMPERATURE">
+        <id name="paramId" type="java.lang.Integer">
+            <column name="PARAMID" />
+            <generator class="increment" />
+        </id>
+        <property name="unitId" type="java.lang.String">
+            <column name="UNITID" />
+        </property>
+        <property name="clientId" type="java.lang.Integer">
+            <column name="CLIENTID" />
+        </property>
+        <property name="dom" type="java.lang.String">
+            <column name="DOM" />
+        </property>
+        <property name="tempVal" type="java.lang.Integer">
+            <column name="TEMPVAL" />
+        </property>
+    </class>
+</hibernate-mapping>
